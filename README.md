@@ -1,6 +1,6 @@
 # Role-Based Authentication in Nuxt 4 with Supabase
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68dc9e2b9d8f287f173a7430/rolebased-authentication-in-nuxt-4-with-supabase).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
